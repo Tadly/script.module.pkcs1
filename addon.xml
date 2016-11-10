@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.pkcs1"
+       name="python-pkcs1"
+       provider-name="bdauvergne"
+       version="0.9.5">
+
+    <requires>
+        <import addon="xbmc.python" version="2.19.0"/>
+    </requires>
+
+    <extension library="lib" point="xbmc.python.module"/>
+
+    <extension point="xbmc.addon.metadata">
+        <language>en</language>
+        <platform>all</platform>
+        <summary lang="en">Pure python, slow and standard implementation of PKCS #1 also knows as RSA</summary>
+        <description lang="en">Pure python, slow and standard implementation of PKCS #1 also knows as RSA</description>
+        <license>MIT</license>
+        <website>https://pypi.python.org/pypi/pkcs1</website>
+        <source>https://github.com/bdauvergne/python-pkcs1</source>
+    </extension>
+</addon>
