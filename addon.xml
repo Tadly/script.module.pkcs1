@@ -11,10 +11,9 @@
     <extension library="lib" point="xbmc.python.module"/>
 
     <extension point="xbmc.addon.metadata">
-        <language>en</language>
         <platform>all</platform>
-        <summary lang="en">Pure python, slow and standard implementation of PKCS #1 also knows as RSA</summary>
-        <description lang="en">Pure python, slow and standard implementation of PKCS #1 also knows as RSA</description>
+        <summary lang="en_GB">Pure python, slow and standard implementation of PKCS #1 also knows as RSA</summary>
+        <description lang="en_GB">Pure python, slow and standard implementation of PKCS #1 also knows as RSA</description>
         <license>MIT</license>
         <website>https://pypi.python.org/pypi/pkcs1</website>
         <source>https://github.com/bdauvergne/python-pkcs1</source>
