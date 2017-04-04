@@ -2,7 +2,7 @@
 <addon id="script.module.pkcs1"
        name="python-pkcs1"
        provider-name="bdauvergne"
-       version="0.9.5">
+       version="0.9.6">
 
     <requires>
         <import addon="xbmc.python" version="2.19.0"/>
